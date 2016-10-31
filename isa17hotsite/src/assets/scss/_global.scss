@@ -1,0 +1,16 @@
+.underline {
+    text-align: center;
+    margin-bottom: 1rem;
+    display: inline-block;
+    position: relative;
+    &:after {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 1px;
+        display: block;
+        content: '';
+        background-color: #D9A53B;
+    }
+}

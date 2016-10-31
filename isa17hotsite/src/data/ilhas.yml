@@ -1,0 +1,56 @@
+- title: Ilha Design e Negócios
+  desc: Trilha focada em relacionar os conceitos do design e a área de negócios. Aqui
+    será discutido o design como estratégia para gerar valor e impacto real nos mundo
+    dos negócios.
+  items:
+  - Investidores
+  - Cultura organizacional
+  - Inovação
+  - Service Design
+  - Customer experience
+- title: Ilha Design e Humanas
+  desc: Trilha focada em assuntos ligados ao comportamento humano e áreas de conhecimento
+    que estudam as dinâmicas e interações relacionados à pessoas e suas percepções.
+  items:
+  - Antropologia
+  - Psicologia
+  - Ética
+  - UX
+  - IHC
+  - Usabilidade
+  - Acessibilidade
+  - EAD
+  - Local/Contexto
+  - Design Thinking
+  - Pesquisa
+  - User Test
+- title: Ilha Design e Tecnologia
+  desc: Esta trilha aborda conteúdos relacionados aos diversos avanços e novidades
+    tecnológicas e seus impactos na sociedade e nos projetos de design.
+  items:
+  - Desenvolvimento front e back-end
+  - Smart Cities
+  - Sound Design
+  - Motion Design
+  - Jogos
+  - Realidade aumentada
+  - Bot
+  - Machine Learning
+  - Virtual reallity
+  - Blockchain
+  - Inteligência artificial
+  - Big Data
+  - Bitcoin
+  - Sustentabilidade
+- title: Ilha Design e Comunicação
+  desc: Trilha focada em questões do design que se conectam com a comunicação e expressão
+    para diversas finalidades e contextos.
+  items:
+  - Marketing
+  - Mídias/Agências
+  - Branding
+  - Jornalismo
+  - Conteúdo
+  - Semiótica
+  - Design Visual
+  - Artes
