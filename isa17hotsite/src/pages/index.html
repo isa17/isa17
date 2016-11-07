@@ -1,15 +1,16 @@
 ---
-title: Page Title
-description: Lorem ipsum aasdasdas
+title: Interaction South America Floripa 2017
 ---
 
 <section class="hero">
+{{> redessociais }}
   <div class="row align-center">
     <div class="small-8 column text-center">
-      <h1>Interaction South America Floripa 2017</h1>
+      <h1 hidden>Interaction South America Floripa 2017</h1>
+      <h1><img src="/assets/img/isa17.svg" alt="Interaction South America 2017 Floripa Logo" class="hero-logo"></h1>
       <a href="#" data-open="video"><img src="/assets/img/ic-play.svg"></a>
       <h3>Que tal ancorar em outros portos? <br>Navegar por outros mares?</h3>
-      <a href="#" class="button large">Inscreva-se agora!</a>
+      <a href="https://www.sympla.com.br/pre-inscricao-interaction-south-america-floripa-2017__99444" class="button large">Inscreva-se agora!</a>
     </div>
   </div>
 </section>
@@ -25,9 +26,9 @@ description: Lorem ipsum aasdasdas
 <section class="apoio text-center">
   <h2>Apoio</h2>
   {{> apoio }}
-  <div class="row column">
+  <div class="row column mt-3">
     <h3>Quer patrocinar o ISA Floripa 2017?</h3>
-    <a href="#" class="button large">Clique aqui</a>
+    <a href="https://drive.google.com/file/d/0BxHr4JgOZtHEWXpVR2ZWMkJUNjQ/view?usp=sharing" class="button large">Clique aqui</a>
     <p>Ou envie uma mensagem para a <a href="mailto:ixdafloripa@gmail.com">organização do evento</a></p>
   </div>
 </section>
@@ -40,25 +41,29 @@ description: Lorem ipsum aasdasdas
     <h4>Fique ligado e receba todas as novidades do ISA Floripa 2017!</h4>
   </div>
   <div class="row align-center">
-    <div class="small-10 medium-6 large-4">
+    <div class="small-10 medium-6 large-4" id="form-rd">
+      <div id="early-bird-45706710cb119f114714"></div>
+      <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+      <script type="text/javascript">
+        new RDStationForms('early-bird-45706710cb119f114714-html', '').createForm();
+      </script>
+</div>
+    <!-- <div class="small-10 medium-6 large-4">
       <div class="input-group">
         <input class="input-group-field" type="email">
         <div class="input-group-button">
           <input type="submit" class="button" value="Enviar">
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>
 <footer>
   <div class="row column text-center">
     <h4>#isafloripa17</h4>
-    <ul class="horizontal menu text-center">
-      <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-      <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-    </ul>
+    {{> redessociais }}
   </div>
 </footer>
-<div class="reveal" id="video" data-reveal>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/x0zNj7QGKBw" frameborder="0" allowfullscreen></iframe>
+<div class="reveal small" id="video" data-reveal>
+  <iframe src="https://player.vimeo.com/video/189651692" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>

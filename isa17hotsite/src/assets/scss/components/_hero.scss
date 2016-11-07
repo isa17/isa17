@@ -7,18 +7,19 @@ $logowidth: 40vw;
     background-position: center;
     color: white;
     padding: 6rem 0;
+    position: relative;
 
+    .socialmedia {
+        position: absolute;
+        top: 30px;
+        right: 30px;
+    }
+    &-logo {
+        max-width: 500px;
+        margin-bottom: 2rem;
+        width: 100%;
+    }
     h1 {
-        text-indent: -9999px;
-        background-image: url(../img/isa17.svg);
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: contain;
-        display: block;
-        margin: auto;
-        width: 366px;
-        height: 130px;
-        margin-bottom: 20px;
     }
     h3 {
         margin: 3rem 0;

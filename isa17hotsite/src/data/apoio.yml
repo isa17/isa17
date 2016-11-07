@@ -2,22 +2,22 @@
 - title: Instituições
   items:
   - name: UFSC
-    url: http://www.google.com/
+    url: http://www.ufsc.br/
     img: ufsc.png
   - name: Sapiens Parque
-    url: http://www.google.com/
+    url: http://www.sapiensparque.com.br/
     img: sapiens.png
   - name: LOGO
-    url: http://www.google.com/
+    url: http://www.logo.ufsc.br/
     img: logo.png
 - title: Empresas
   items:
   - name: Catarinas
-    url: http://www.google.com/
+    url: http://www.catarinasdesign.com.br/
     img: catarinas.svg
   - name: Ideativo
-    url: http://www.google.com/
+    url: http://www.ideativo.com.br/
     img: ideativo.svg
   - name: Nextt
-    url: http://www.google.com/
+    url: http://www.nextt.com.br/
     img: nextt.svg
