@@ -41,21 +41,18 @@ title: Interaction South America Floripa 2017
     <h4>Fique ligado e receba todas as novidades do ISA Floripa 2017!</h4>
   </div>
   <div class="row align-center">
-    <div class="small-10 medium-6 large-4" id="form-rd">
-      <div id="early-bird-45706710cb119f114714"></div>
-      <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
-      <script type="text/javascript">
-        new RDStationForms('early-bird-45706710cb119f114714-html', '').createForm();
-      </script>
-</div>
-    <!-- <div class="small-10 medium-6 large-4">
-      <div class="input-group">
-        <input class="input-group-field" type="email">
-        <div class="input-group-button">
-          <input type="submit" class="button" value="Enviar">
+    <div class="small-10 medium-6 large-4">
+      <form action="https://www.rdstation.com.br/api/1.2/conversions" method="POST">
+        <div class="input-group">
+          <input class="input-group-field" type="email" name="email">
+          <input type="hidden" name="token_rdstation" value="b0ed43d3e5d5050244d29bd8cf85651d" />
+          <input type="hidden" name="identificador" value="isa17-news" />
+          <div class="input-group-button">
+            <input type="submit" class="button" value="Enviar">
+          </div>
         </div>
-      </div>
-    </div> -->
+      </form>
+    </div>
   </div>
 </section>
 <footer>
