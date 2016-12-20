@@ -24,4 +24,13 @@ $logowidth: 40vw;
     h3 {
         margin: 3rem 0;
     }
+    a {
+        img {
+            transition: transform 100ms ease-in-out;
+        }
+        img:hover {
+            transform: scale(1.2);
+            transition: transform 100ms ease-in-out;
+        }
+    }
 }
