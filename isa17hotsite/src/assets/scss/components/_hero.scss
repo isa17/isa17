@@ -24,7 +24,9 @@ $logowidth: 40vw;
     h3 {
         margin: 3rem 0;
     }
-    img:hover {
-        filter: brightness(0) invert(1);
+    a {
+        img:hover {
+            filter: brightness(0) invert(1);
+        }
     }
 }
