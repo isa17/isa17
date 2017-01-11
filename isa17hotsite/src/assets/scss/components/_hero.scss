@@ -25,8 +25,12 @@ $logowidth: 40vw;
         margin: 3rem 0;
     }
     a {
+        img {
+            transition: transform 100ms ease-in-out;
+        }
         img:hover {
-            filter: brightness(0) invert(1);
+            transform: scale(1.2);
+            transition: transform 100ms ease-in-out;
         }
     }
 }
