@@ -9,6 +9,19 @@ $logowidth: 40vw;
     padding: 6rem 0;
     position: relative;
 
+    .language{
+        position: absolute;
+        font-size: 10pt;
+        top: 30px;
+        left: 30px;
+        a{
+          color: #FFFFFF;  
+        }
+        a:hover{
+            color: #00B365;
+        }
+    }
+
     .socialmedia {
         position: absolute;
         top: 30px;
