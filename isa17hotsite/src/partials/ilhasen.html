@@ -1,0 +1,15 @@
+{{#each ilhas_en }}
+    <div class="small-12 medium-6 column">
+        <div class="ilhas--box">
+            <div class="text-center">
+                <h4 class="underline">{{ title }}</h4>
+            </div>
+            <p>{{ desc }}</p>
+            <ul>
+            {{#each items}}
+                <li>{{this}}</li>
+            {{/each}}
+            </ul>
+        </div>
+    </div>
+{{/each}}
