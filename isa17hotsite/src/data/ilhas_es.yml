@@ -1,4 +1,4 @@
-- title: Isla Diseño y Negocios
+- title: Isla diseño y negocios
   desc: Pista focada en relacionar los conceptos del diseño y el área de negocios. Aqui
     se discutirá el diseño como estrategia para generar valor e impacto real en el mundo de los negocios.
   items:
@@ -7,7 +7,7 @@
   - Inovación
   - Service Design
   - Customer experience
-- title: Isla Diseño y Humanas
+- title: Isla diseño y humanas
   desc: Pista focada em temas conectados al comportamiento humano y áreas del conocimiento
     que estudian las dinámicas e interacciones relacionados a personas y sus percepciones.
   items:
@@ -17,13 +17,13 @@
   - UX
   - IHC
   - Usabilidad
-  - Accesibilidad
+  - Acessibilidad
   - EAD
   - Local/Contexto
   - Design Thinking
   - Investigación
   - User Test
-- title: Isla Diseño y Tecnología
+- title: Isla diseño y tecnología
   desc: Esta pista aborda contenidos relacionados a los diversos avanzes y novedades
     tecnológicas y sus impactos en la sociedad y en los proyectos de diseño.
   items:
@@ -35,21 +35,21 @@
   - Realidad aumentada
   - Bots
   - Machine Learning
-  - Virtual reality
+  - Virtual reallity
   - Blockchain
-  - Inteligencia artificial
+  - Inteligência artificial
   - Big Data
   - Bitcoin
   - Sustentabilidad
-- title: Isla Diseño y Comunicación
-  desc: Pista con enfoque en cuestiones del diseño que se conectan con la comunicación y expressión
+- title: Isla diseño y comunicación
+  desc: Pista con enfoque en cuestiones del diseño que se conectan con la comunciación y expressión
     para diversas finalidades y contextos.
   items:
   - Marketing
-  - Midias/Agencias
+  - Mídias/Agências
   - Branding
   - Periodismo
   - Contenido
   - Semiotica
-  - Diseño visual
+  - Diseño Visual
   - Artes
