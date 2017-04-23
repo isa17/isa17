@@ -1,7 +1,7 @@
 - title: Design and business island
-  desc: Track focused on connecting design and business concepts. Here
-    we discuss design as a strategy to generate value and real impact
-    in the business world.
+  desc: Track focused on connecting design and business
+    concepts. Here we discuss design as a strategy to 
+    generate value and real impact in the business world.
   items:
   - Investment
   - Organizational culture
@@ -9,8 +9,9 @@
   - Service Design
   - Customer experience
 - title: Design and human sciences island
-  desc: Track focused on human behavior and knowledge areas that study the dynamics
-    between people and their perceptions.
+  desc: Track focused on human behavior and knowledge areas 
+    that study the dynamics between people and their 
+    perceptions.
   items:
   - Antropology
   - Psychology
@@ -23,10 +24,11 @@
   - Place and context
   - Design Thinking
   - Research
-  - User testing
+  - User Test
 - title: Design and technology island
-  desc: Track that addresses content related to the technological innovations and
-    their impact on society and in the development of design projects.
+  desc: Track that addresses content related to the 
+    technological innovations and their impact on society
+    and in the development of design projects.
   items:
   - Front-end and back-en development
   - Smart Cities
@@ -43,8 +45,8 @@
   - Bitcoin
   - Sustainability
 - title: Design and communication island
-  desc: Track focused on design issues that are connected to communication
-    and expression for various purposes and contexts.
+  desc: Track focused on design issues that are connected to 
+    communication and expression for various purposes and contexts.
   items:
   - Marketing
   - Midia and agencies
