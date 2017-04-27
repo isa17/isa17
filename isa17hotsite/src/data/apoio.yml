@@ -1,4 +1,19 @@
 ---
+- title: Patrocinador Ouro
+  items:
+  - name: HUGE
+    url: http://www.hugeinc.com/
+    img: huge.jpg
+- title: Patrocinador Bronze
+  items:
+  - name: Saiba+
+    url: http://www.saiba-mais.com/
+    img: saiba+la.png
+- title: Apoio
+  items:
+  - name: Conta Azul
+    url: https://contaazul.com/
+    img: contaazul.png
 - title: Instituições
   items:
   - name: UFSC
@@ -30,3 +45,6 @@
   - name: SoftExpert
     url: https://www.softexpert.com.br/
     img: softexpert.svg
+  - name: Sympla
+    url: https://www.sympla.com.br/
+    img: sympla.png
