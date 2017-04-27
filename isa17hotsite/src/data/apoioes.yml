@@ -1,15 +1,15 @@
 ---
-- title: Ouro
+- title: Oro
   items:
   - name: HUGE
     url: http://www.hugeinc.com/
     img: huge.jpg
-- title: Bronze
+- title: Bronce
   items:
   - name: Saiba+
     url: http://www.saiba-mais.com/
     img: saiba+la.png
-- title: Apoiador
+- title: Partidario
   items:
   - name: Conta Azul
     url: https://contaazul.com/
@@ -17,7 +17,7 @@
   - name: SoftExpert
     url: https://www.softexpert.com.br/
     img: softexpert.svg
-- title: Apoiador institucional
+- title: Partidario institucional
   items:
   - name: UFSC
     url: http://www.ufsc.br/
@@ -31,7 +31,7 @@
   - name: UDESC
     url: http://www.udesc.br/
     img: udesc.png
-- title: Parceiros
+- title: Socios
   items:
   - name: Catarinas
     url: http://www.catarinasdesign.com.br/
@@ -48,7 +48,7 @@
   - name: Casa do Código
     url: https://www.casadocodigo.com.br/
     img: cdc.svg
-- title: Plataforma oficial de inscrições
+- title: Plataforma oficial de entradas
   items:
   - name: Sympla
     url: https://www.sympla.com.br/
