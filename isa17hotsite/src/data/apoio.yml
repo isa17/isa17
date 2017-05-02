@@ -48,6 +48,9 @@
   - name: Casa do Código
     url: https://www.casadocodigo.com.br/
     img: cdc.svg
+  - name: Mobiliza
+    url: http://www.mobiliza.com.br/
+    img: mobiliza.png
 - title: Plataforma oficial de inscrições
   items:
   - name: Sympla
