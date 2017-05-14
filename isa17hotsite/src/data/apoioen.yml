@@ -9,11 +9,14 @@
   - name: Saiba+
     url: http://www.saiba-mais.com/
     img: saiba+la.png
+  - name: Loggi
+    url: https://www.loggi.com/
+    img: loggi.png
+  - name: Itaú
+    url: https://www.itau.com.br/
+    img: itau.png
 - title: Support
   items:
-  - name: Conta Azul
-    url: https://contaazul.com/
-    img: contaazul.png
   - name: SoftExpert
     url: https://www.softexpert.com.br/
     img: softexpert.svg
@@ -51,6 +54,9 @@
   - name: Mobiliza
     url: http://www.mobiliza.com.br/
     img: mobiliza.png
+  - name: Conta Azul
+    url: https://contaazul.com/
+    img: contaazul.png
 - title: Official registration platform
   items:
   - name: Sympla
