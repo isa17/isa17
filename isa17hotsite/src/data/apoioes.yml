@@ -20,6 +20,9 @@
   - name: SoftExpert
     url: https://www.softexpert.com.br/
     img: softexpert.svg
+  - name: Mergo
+    url: http://www.mergo.com.br/
+    img: mergo.png
 - title: Partidario institucional
   items:
   - name: UFSC
