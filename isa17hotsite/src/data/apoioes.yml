@@ -15,6 +15,9 @@
   - name: Itaú
     url: https://www.itau.com.br/
     img: itau.png
+  - name: Work and Code
+    url: http://workandcode.com/
+    img: workandcode.svg
 - title: Partidario
   items:
   - name: SoftExpert
